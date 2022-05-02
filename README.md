@@ -13,6 +13,18 @@
 
 A forensic analysis framework for enumerating slack artifacts residing in the Operating system.
 
+### Features
+
+* Multi-OS support
+    * Windows, Mac & Linux
+* Fetch Cookies
+* Retrieve User logs, Slack Client logs
+* Fetch and analyze levelDB files
+    * Extract authentication tokens
+* Export the data to CSV
+* GUI Visualizer plugin
+    * Slack user data
+
 ### Prerequisites
 
 Python 3.x
