@@ -1,0 +1,3 @@
+venv/*
+__pycache__/ccl_leveldb.cpython-39.pyc __pycache__/ccl_simplesnappy.cpython-39.pyc
+__pycache__/
