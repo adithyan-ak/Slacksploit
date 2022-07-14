@@ -71,9 +71,9 @@ if __name__ == '__main__':
     print("User : "+user)
 
     mac_slack_resource = "/Applications/Slack.app/Contents/Resources/"
-    mac_slack_storage = "/Users/adithyanak/Library/Application Support/Slack/"
-    wins_slack_resource = "C:/Users/" + "username" + "/AppData/Local/slack/"
-    wins_slack_storage = "C:/Users/" + "username" + "/AppData/Roaming/Slack/"
+    mac_slack_storage = "/Users/" + user + /Library/Application Support/Slack/"
+    wins_slack_resource = "C:/Users/" + user + "/AppData/Local/slack/"
+    wins_slack_storage = "C:/Users/" + user " + "/AppData/Roaming/Slack/"
     linux_slack_resource = "~/snap/slack/60/etc/"
     linux_slack_storage = "~/snap/slack/60/.config/Slack/"
 
